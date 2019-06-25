@@ -12,7 +12,7 @@ This is a web file am working on
 					<ul>
 						<li> <a href="#"> Home </a> </li>
 						<li> <a href="#"> About Us </a></li>
-						<li> <a href="#"> Our Mission </a></li><br>
+						<li> <a href="#"> Our Mission </a></li>
 						<li> <details open>
 							<summary> Acomplishments </summary>
 							<ul>
